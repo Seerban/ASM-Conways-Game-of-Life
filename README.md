@@ -3,6 +3,7 @@ System Architecture (32 bit x86 Assembly) exercise. (Old code)
 
 Compilation:
 gcc -m32 -o conway conway.s
+
 ./conway
 
 <details> <summary> Input </summary>
